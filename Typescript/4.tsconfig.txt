@@ -1,0 +1,23 @@
+folder structure
+
+public
+    -whatever is deplyed
+src 
+    - source code the ts files
+
+
+
+
+
+tsc --init
+    creates tsconfig.json file
+
+    update rootDir and
+
+
+    then run command 
+        tsc
+            convert all ts files in rootDir to js and place it in outDir
+        "include": ["src"]
+            only contents of src will be compiled
+            

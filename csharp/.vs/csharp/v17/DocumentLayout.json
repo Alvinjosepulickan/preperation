@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|c:\\users\\alvin\\onedrive\\desktop\\learning\\csharp\\csharp\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|solutionrelative:csharp\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|c:\\users\\alvin\\onedrive\\desktop\\learning\\csharp\\csharp\\csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|solutionrelative:csharp\\csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|c:\\users\\alvin\\onedrive\\desktop\\learning\\csharp\\csharp\\annonymousmethos\\annonymousmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|solutionrelative:csharp\\annonymousmethos\\annonymousmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|c:\\users\\alvin\\onedrive\\desktop\\learning\\csharp\\csharp\\indexer\\indexereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|solutionrelative:csharp\\indexer\\indexereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|c:\\users\\alvin\\onedrive\\desktop\\learning\\csharp\\csharp\\deligateeg\\deligateeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|solutionrelative:csharp\\deligateeg\\deligateeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|c:\\users\\alvin\\onedrive\\desktop\\learning\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7FA4BE-EA7B-4E9F-89CF-3861EA66B1A5}|csharp\\csharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractClass.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\AbstractClass.cs",
+              "RelativeDocumentMoniker": "csharp\\AbstractClass.cs",
+              "ToolTip": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\AbstractClass.cs",
+              "RelativeToolTip": "csharp\\AbstractClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:24:17.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnnonymousMethods.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\AnnonymousMethos\\AnnonymousMethods.cs",
+              "RelativeDocumentMoniker": "csharp\\AnnonymousMethos\\AnnonymousMethods.cs",
+              "ToolTip": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\AnnonymousMethos\\AnnonymousMethods.cs",
+              "RelativeToolTip": "csharp\\AnnonymousMethos\\AnnonymousMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:46:26.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "csharp",
+              "DocumentMoniker": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\csharp.csproj",
+              "RelativeDocumentMoniker": "csharp\\csharp.csproj",
+              "ToolTip": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\csharp.csproj",
+              "RelativeToolTip": "csharp\\csharp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T10:45:55.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndexerEg.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\Indexer\\IndexerEg.cs",
+              "RelativeDocumentMoniker": "csharp\\Indexer\\IndexerEg.cs",
+              "ToolTip": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\Indexer\\IndexerEg.cs",
+              "RelativeToolTip": "csharp\\Indexer\\IndexerEg.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:13:54.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeligateEg.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\DeligateEg\\DeligateEg.cs",
+              "RelativeDocumentMoniker": "csharp\\DeligateEg\\DeligateEg.cs",
+              "ToolTip": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\DeligateEg\\DeligateEg.cs",
+              "RelativeToolTip": "csharp\\DeligateEg\\DeligateEg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:34:31.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\Program.cs",
+              "RelativeDocumentMoniker": "csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\alvin\\OneDrive\\Desktop\\Learning\\csharp\\csharp\\Program.cs",
+              "RelativeToolTip": "csharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:00:34.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

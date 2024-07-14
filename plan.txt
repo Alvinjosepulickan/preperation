@@ -1,0 +1,17 @@
+dsa
+html,css 		: https://www.youtube.com/watch?v=G3e-cpL7ofc
+type script		: https://www.youtube.com/watch?v=j89BvWz8Eag&list=PLRAV69dS1uWRPSfKzwZsIm-Axxq-LxqhW
+react			: https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK 
+
+sql			: https://www.youtube.com/watch?v=7GVFYt6_ZFM&list=PL08903FB7ACA1C2FB
+			  https://www.youtube.com/watch?v=fvPddKyHxpQ&list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
+c#			: https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105
+			  https://www.youtube.com/watch?v=-1NUQNSVVmk&list=PL6n9fhu94yhWlAv3hnHzOaMSeggILsZFs
+.net
+
+
+
+
+docker and kubernetes:https://www.youtube.com/watch?v=mdb_wWaKXK8&pp=ygUpZG9ja2VyIGFuZCBrdWJlcm5ldGVzIGludGVydmlldyBxdWVzdGlvbnM%3D
+				https://www.youtube.com/watch?v=ViYjHfbmBYA
+				https://www.youtube.com/watch?v=mdb_wWaKXK8

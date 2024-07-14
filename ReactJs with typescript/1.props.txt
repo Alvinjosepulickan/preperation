@@ -1,0 +1,47 @@
+folder Components-> Greet.tsx
+
+
+greet Component
+
+type GreetProps={
+    name:"string"
+}
+const Greet = (props:GreetProps) => {
+  return (
+    <div>Hello :{props.name}</div>
+  )
+}
+
+
+
+
+Person component
+
+type PersonObj={
+    name:{
+        first: string,
+        last: string
+    },
+    age: number
+}
+const Person = (props: PersonObj) => {
+  return (
+    <div>Person {props.name.first} {props.name.last}, your age is {props.age}</div>
+  )
+}
+
+
+
+calling
+
+const person: PersonObj={
+    name:{
+      first: "Alvin",
+      last: "Jose"
+    },
+    age: 26
+  }
+
+
+<Greet name='pj' messageCount={10}/>
+        <Person name={person.name} age={person.age}/>

@@ -1,0 +1,10 @@
+
+type ListProps<T>={
+    item :T[],
+    onClick: (value:string)=>void
+}
+const GenericProp = <T extends {}>(prop:ListProps<T>) => {
+  return (
+    <div>GenericProp</div>
+  )
+}
