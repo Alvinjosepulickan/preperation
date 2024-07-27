@@ -15,3 +15,16 @@ c#			: https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105
 docker and kubernetes:https://www.youtube.com/watch?v=mdb_wWaKXK8&pp=ygUpZG9ja2VyIGFuZCBrdWJlcm5ldGVzIGludGVydmlldyBxdWVzdGlvbnM%3D
 				https://www.youtube.com/watch?v=ViYjHfbmBYA
 				https://www.youtube.com/watch?v=mdb_wWaKXK8
+
+
+
+
+
+c#
+sql
+html
+css
+reactjs
+
+dsa
+system design
