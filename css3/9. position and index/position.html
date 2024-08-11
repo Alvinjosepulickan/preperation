@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .static {
+            position: static;
+            background-color: lightblue;
+            height: 100px;
+        }
+        
+        .relative {
+            position: relative;
+            top: 10px;
+            left: 20px;
+            background-color: lightcoral;
+            height: 100px;
+        }
+        
+        .absolute {
+            position: absolute;
+            top: 50px;
+            right: 20px;
+            background-color: lightgreen;
+            height: 100px;
+        }
+        
+        .fixed {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
+            background-color: lightyellow;
+            height: 100px;
+        }
+        
+        .sticky {
+            position: sticky;
+            top: 0;
+            background-color: lightpink;
+            height: 100px;
+        }
+        
+        .container {
+            height: 2000px; /* to make the page scrollable */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="static">Static</div>
+        <div class="relative">Relative</div>
+        <div class="absolute">Absolute</div>
+        <div class="fixed">Fixed</div>
+        <div class="sticky">Sticky</div>
+    </div>
+</body>
+</html>

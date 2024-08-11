@@ -1,0 +1,32 @@
+body {
+    font-size: large;
+  }
+  h1 {
+    border: 1px solid darkred;
+    color: green;
+    text-align: center;
+  }
+  p {
+    color: green;
+  }
+  #id1{
+    color: red;
+  }
+  #id2{
+    color: red;
+  }
+  .class1{
+    color: blue;
+  }
+  .class2{
+    color: yellow;
+  }
+  h3.class1{
+    color: red;
+  }
+  h3#id1{
+    color: purple;
+  }
+  h3:hover{
+    background-color: blue;
+  }

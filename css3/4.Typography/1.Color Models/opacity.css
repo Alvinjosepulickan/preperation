@@ -1,0 +1,30 @@
+#parent
+{
+	background-color:#2196f3;
+	border: 1px solid white;
+	height:200px;
+	width:200px;
+}
+#child
+{
+	background-color:grey;
+	border: 2px dotted red;
+	height:200px;
+	margin-left:50px;
+	margin-top:50px;
+	width:400px;
+	opacity:0.5;
+	color:white;
+    
+}
+#Child1{
+    background-color: hsla(100, 100, 10, 0.5);
+    border: 2px dotted red;
+	height:200px;
+	margin-left:50px;
+	margin-top:50px;
+	width:400px;
+	opacity:0.5;
+	color:white;
+    
+}

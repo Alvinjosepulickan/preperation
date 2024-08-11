@@ -1,0 +1,72 @@
+/* Base font size for rem units */
+html {
+    font-size: 16px; /* 1rem = 16px */
+}
+
+/* Container styling */
+.container {
+    width: 90vw; /* 90% of the viewport width */
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Header and footer styling */
+.header, .footer {
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+/* Main content styling */
+.main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 10px;
+}
+
+/* Box styling */
+.box {
+    background-color: lightcoral;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    text-align: center;
+    font-size: 1rem; /* Base font size for boxes */
+}
+
+/* Specific styles for each box type */
+.box.px {
+    width: 150px; /* Fixed width using pixels */
+}
+
+.box.em {
+    width: 10em; /* Width relative to the font size of the box */
+}
+
+.box.rem {
+    width: 15rem; /* Width relative to the root font size */
+}
+
+.box.vw {
+    width: 20vw; /* Width relative to 20% of the viewport width */
+}
+
+.box.vh {
+    width: 20vh; /* Width relative to 20% of the viewport height */
+}
+
+.box.vmin {
+    width: 20vmin; /* Width relative to 20% of the smaller viewport dimension */
+}
+
+.box.vmax {
+    width: 20vmax; /* Width relative to 20% of the larger viewport dimension */
+}
