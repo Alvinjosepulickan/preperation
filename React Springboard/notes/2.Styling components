@@ -1,0 +1,11 @@
+inline 
+<h1 style={{color:'green'}}>Welcome to React</h1>
+
+using class
+<h1 className="highlight">Heading</h1>
+
+using bootstrap
+npm install bootstrap 
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+<button className="btn btn-success">Submit</button>

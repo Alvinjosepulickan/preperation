@@ -1,0 +1,23 @@
+Using if-else:
+
+    let isLoggedIn = false;
+    if (isLoggedIn) {
+        element = <h2>Welcome Admin</h2>;
+    } 
+    else {
+        element = <h2>Please Login</h2>;
+    }
+    return <>{element}</>;
+
+Using ternary operator:
+    let isLoggedIn = false;
+    return {isLoggedIn ? <h2>Welcome Admin</h2> : <h2>Please Login</h2>};
+
+Using Short Circuiting:
+    let isLoggedIn = true;
+    return (
+    			<div>
+    				{isLoggedIn && <h2>Welcome Admin</h2>}
+    				{!isLoggedIn && <h2>Please Login</h2>}
+    			</div>
+    		)

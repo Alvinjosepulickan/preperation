@@ -1,0 +1,24 @@
+"use strict";
+let lname;
+lname = 'Santosh';
+let newName = lname.toUpperCase();
+console.log(newName);
+let age = 10;
+let isValid = false;
+let arr1 = [1, 2, 3, 4, 5];
+let arr = [1, 2, 3, 4, 5];
+arr = arr.filter(x => x > 4);
+var gender;
+(function (gender) {
+    gender[gender["Male"] = 0] = "Male";
+    gender[gender["Female"] = 1] = "Female";
+})(gender || (gender = {}));
+let genderValue = gender.Male;
+console.log(gender);
+console.log(genderValue);
+let tuple;
+tuple = ["hi", "hello", 1];
+console.log(tuple);
+let anyVariable;
+anyVariable = 10;
+anyVariable = 'hi';

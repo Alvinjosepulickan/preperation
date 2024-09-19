@@ -1,0 +1,95 @@
+state
+    manage internal data of a component
+props
+    used to pass data between component
+    props cannot be changed or altered
+
+child component to parent component communication
+    It is possible to pass data from the child to the parent component. 
+    If the child component wants to send data to the parent component, 
+        it can sent by invoking a function that is passed as props from the parent component.
+
+
+
+use state
+
+import {useState} from 'react';
+function App() {
+  const [name,setName] = useState("Jack")
+    const handleChange = () => {
+      setName("Jill")
+    }
+  return (
+    <div>
+      Your Name is: {name}<br/>    
+      <button onClick={handleChange}>Change</button>
+    </div>
+  );
+}
+export default App;
+
+
+
+
+
+props
+
+
+passing props
+
+function ParentComponent() {
+  return <ChildComponent message="Hello, world!" />;
+}
+
+accessing props
+
+function ChildComponent(props) {
+  return <p>{props.message}</p>;
+}
+
+function ChildComponent({ message }) {
+  return <p>{message}</p>;
+}
+
+
+
+
+
+
+child to parent communication
+
+function ParentComponent() {
+  const handleChildClick = (message) => {
+    alert(`Message from child: ${message}`);
+  };
+
+  return <ChildComponent sendData={handleChildClick} />;
+}
+
+
+
+
+passing component as props
+
+
+function ParentComponent({ children }) {
+  return (
+    <div>
+      <h2>Parent Component</h2>
+      {children} {/* This renders the child components */}
+    </div>
+  );
+}
+
+function ChildComponent() {
+  return <p>This is a child component!</p>;
+}
+
+function App() {
+  return (
+    <ParentComponent>
+      <ChildComponent />
+      <p>This is another child!</p>
+    </ParentComponent>
+  );
+}
